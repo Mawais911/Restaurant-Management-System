@@ -52,8 +52,6 @@ This is a simple **Restaurant Management System** built using **Object-Oriented 
 
 ---
 
-## 📊 Flowchart Design (Save as flowchart.png)
-
 ## 🧠 How It Works (Flowchart)
 
 ```plaintext
